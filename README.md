@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 ¡Holiis! Soy Mariano :)
 
-<!--
-**MarianoVillalba/MarianoVillalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Sistemas Jr | Desarrollo Web & Bases de Datos  
+🌱 Recién recibido, en constante aprendizaje  
+🖥️ Trabajo con PHP, MySQL, PostgreSQL, HTML, CSS y JavaScript  
+🔍 Interesado en el backend, el frontend y la creación de soluciones funcionales  
 
-Here are some ideas to get you started:
+🚀 Sobre mí  
+Soy Analista de Sistemas Jr, recientemente recibido, con ganas de seguir creciendo dentro del mundo del desarrollo de software.  
+Tengo experiencia en proyectos académicos y personales, donde desarrollé aplicaciones web y trabajé con bases de datos, siempre buscando soluciones claras y bien estructuradas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me considero una persona responsable, curiosa y con buena predisposición para aprender y trabajar en equipo.
+
+🛠️ Tecnologías  
+- PHP  
+- MySQL / PostgreSQL  
+- HTML, CSS, JavaScript  
+
+😄 Fuera del código  
+🎮 Videojuegos (fan de los desafíos y la lógica)  
+🎬 Películas y series (spoiler: siempre gana el backend)  
+☕ Café y mate (debugging fuel)  
+🔧 Resolver problemas… incluso fuera del código
+ 
+
+📫 ¿Dónde encontrarme?  
+📌 LinkedIn  
+📌 Portfolio  
+📌 GitHub  
+
+✨ "El código puede fallar, la base de datos puede caerse, pero el mate y el café siempre acompañan." ☕
+
