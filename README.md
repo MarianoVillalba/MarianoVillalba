@@ -1,4 +1,4 @@
-👋 ¡Holiis! Soy Mariano :)
+👋 ¡Holaaa! Soy Mariano :)
 
 🎯 Analista de Sistemas Jr | Desarrollo Web & Bases de Datos  
 🌱 Recién recibido, en constante aprendizaje  
