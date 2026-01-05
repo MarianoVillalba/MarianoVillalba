@@ -17,16 +17,9 @@ Me considero una persona responsable, curiosa y con buena predisposición para a
 - HTML, CSS, JavaScript  
 
 😄 Fuera del código  
-🎮 Videojuegos (fan de los desafíos y la lógica)  
+🎮 Videojuegos (fan de los desafíos y la lógica no tan lógica)  
 🎬 Películas y series (spoiler: siempre gana el backend)  
-☕ Café y mate (debugging fuel)  
+☕ Café (debugging fuel)  
 🔧 Resolver problemas… incluso fuera del código
- 
 
-📫 ¿Dónde encontrarme?  
-📌 LinkedIn  
-📌 Portfolio  
-📌 GitHub  
-
-✨ "El código puede fallar, la base de datos puede caerse, pero el mate y el café siempre acompañan." ☕
-
+✨ “Aprender, probar, equivocarse y mejorar: así se construye buen software.” 💻🚀
