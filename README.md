@@ -1,11 +1,11 @@
-👋 ¡Holaaa! Soy Mariano :)
+👋 ¡Holaaa! Soy Mariano ;)
 
 🎯 Analista de Sistemas Jr | Desarrollo Web & Bases de Datos  
 🌱 Recién recibido, en constante aprendizaje  
 🖥️ Trabajo con PHP, MySQL, PostgreSQL, HTML, CSS y JavaScript  
 🔍 Interesado en el backend, el frontend y la creación de soluciones funcionales  
 
-🚀 Sobre mí  
+👨‍💻 Sobre mí  
 Soy Analista de Sistemas Jr, recientemente recibido, con ganas de seguir creciendo dentro del mundo del desarrollo de software.  
 Tengo experiencia en proyectos académicos y personales, donde desarrollé aplicaciones web y trabajé con bases de datos, siempre buscando soluciones claras y bien estructuradas.  
 
